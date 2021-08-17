@@ -1,0 +1,16 @@
+<html>		</html>:  tag represents the root of an HTML document
+<head>		</head>: head contains the name of the website
+<body>		</body>: contains the total part of the web site
+<!--	 -->	This is a comment. Comments are not displayed in the browser
+<!DOCTYPE html> The declaration is not an HTML tag. It is an "information" to the browser about what document type to expect.
+<h1>		</h1>:  Heading1
+<h2>		</h2>: Heading2
+<h3>		</h3>: Heading3
+<h4>		</h4>: Heading4
+<h5>		</h5>: Heading5
+<h6>		</h6>: Heading6
+<a>		</a>:  tag defines a hyperlink, which is used to link from one page to another
+Example: <a href="path of the page or file">File name</a>
+<b> 		</b>: tag is used to make text bold
+<br> 		: It is used to break the lines from paragraph. It does not have the closing tag.
+<button> 	</button>: It is used to create the buttons
