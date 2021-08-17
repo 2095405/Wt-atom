@@ -14,3 +14,4 @@ Example: <a href="path of the page or file">File name</a>
 <b> 		</b>: tag is used to make text bold
 <br> 		: It is used to break the lines from paragraph. It does not have the closing tag.
 <button> 	</button>: It is used to create the buttons
+Example: <button class="button id">Button Name</button>
