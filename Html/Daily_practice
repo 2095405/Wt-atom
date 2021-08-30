@@ -15,3 +15,18 @@ Example: <a href="path of the page or file">File name</a>
 <br> 		: It is used to break the lines from paragraph. It does not have the closing tag.
 <button> 	</button>: It is used to create the buttons
 Example: <button class="button id">Button Name</button>
+<table> </table>: Used to create a table
+<tr> </tr>: Used to create table browser
+<td> </td>:Used to create table columns
+<img src="" alt="">: used to add images
+  Example: <img src="image link" alt="My image" width="250" height="300">
+  <ul style="style name">
+    <li> </li>
+<audio> </audio>: Used to add audio
+Example: <audio controls>
+      <source src="source.link" type="audio/type">
+</audio>
+<video> </video>: Used to add video
+<video controls>
+  <source src="Video\1st.mp4" type="video/mp4">
+</video>

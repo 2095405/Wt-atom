@@ -1,0 +1,60 @@
+body {
+  background-color:  #fefbd8;
+}
+h1 {
+  color: brown;
+}
+h3{
+  color: blue;
+}
+li{
+  color: yellow;
+}
+p {
+  color: black;
+}
+th{
+  color: pink;
+  font-size: 20px;
+  font-style: oblique;
+
+}
+h4{
+  color: blue;
+}
+.bordered {
+   border-style: dotted;
+   width: 200px;
+   height: 100px;
+   padding: 20px;
+   border: 10px solid yellowgreen;
+ }
+ .picture{
+   background-color: white;
+ }
+ .circle{
+   border-radius: 40%;
+ }
+
+}
+ #name {
+  color: red;
+  font-size: 40px;
+  font-style: italic;
+
+}
+.topContainer{
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+}
+.middleContainer{
+  background-color: white;
+  width: 200px;
+  height: 200px;
+}
+.lastContainer{
+  background-color: green;
+  width:200px;
+  height: 200px;
+}
